@@ -1,0 +1,114 @@
+# Plantilla: propuesta del Proyecto A
+
+---
+
+## 0 · Datos
+
+| | |
+|---|---|
+| **Nombre de la app** | Gestion de Colecciones |
+| **Autor/a** | Iván Fernánez López |
+| **Fecha** | 20-09-2026 |
+
+---
+
+## 1 · La idea en una frase
+
+> Qué hace tu app y para quién, en una sola frase.
+> La app permite a usuarios con colecciones de videojuegos divididas en diferentes formatos y plataformas aunarlas para registrarlas y llevar un backlog.
+> Fórmula: «Una app que permite a [quién] hacer [qué] para [para qué].»
+
+---
+
+## 2 · El problema
+
+> ¿Qué problema resuelve? ¿Cómo se resuelve hoy sin tu app?
+Permite a cualquier usuario tener un control absoluto sobre qué juegos tiene, en qué formatos lo tiene y en qué plataformas lo tiene.
+
+>A día de hoy no existe una forma de hacerlo todo en un mismo sitio: no puedes contabilizar en ningún lado si tienes 3 copias digitales de un mismo juego en diferentes stores ni de si tienes varias versiones físicas, etc.
+---
+
+## 3 · Personas usuarias
+
+> ¿Quién la va a usar? Describe a una persona concreta: edad, soltura con la
+> tecnología, cuándo y dónde abre la app, cuánto tiempo le dedica y qué pasa
+> si le falla. El usuario medio serán un varón de unos 35 años, con mucha soltura con la tecnología que abrirá la app tras adquirir un juego en una tienda o cuando decida de vez en cuando actualizar su catálogo, dedicándole de unos minutos en situaciones cortas a algunas horas si hablamos de actualizar el backlog, y que si la app falla seguramente deje sin actualizar ese juego o decida buscarse alguna otra app.
+
+---
+
+## 4 · Funcionalidades
+
+### Imprescindibles (sin esto la app no tiene sentido)
+
+| # | Funcionalidad |
+|---|---------------|
+| F1 | Registrar títulos videojuegos por plataforma y formato |
+| F2 | Registrar y subir fotos de los títulos |
+| F3 | Crear listas y categorías: por plataforma, juegos buscados, etc. |
+
+### Opcionales (si sobra tiempo)
+
+| # | Funcionalidad |
+|---|---------------|
+| O1 | Conexión con APIs de otras plataformas para sincronizar datos |
+| O2 | Canal automatizado sobre noticias |
+
+
+---
+
+## 5 · Pantallas
+
+| Pantalla | Para qué sirve | Se llega desde |
+|----------|----------------|----------------|
+| | | (arranque) |
+| | | |
+| | | |
+
+---
+
+## 6 · Bocetos
+
+> Dibuja las pantallas principales. A mano y fotografiado es válido.
+> Pega aquí las imágenes o indica el nombre de los archivos adjuntos.
+
+---
+
+## 7 · Qué datos guarda la app
+
+| Tipo de dato | Campos | Ejemplo |
+|--------------|--------|---------|
+| | | |
+| | | |
+
+---
+
+## 8 · Encaje con los requisitos del módulo
+
+> Apartado obligatorio: ninguna casilla puede quedar vacía.
+
+| Requisito | Dónde encaja en tu app | Tema |
+|-----------|------------------------|------|
+| **Persistencia de datos** — la información sobrevive al cerrar la app | | 4 |
+| **Servicio web** — la app consulta datos por internet | | 5 |
+| **Sensor o localización** | | 6 |
+| **Contenido multimedia** — foto, audio, vídeo o animación | | 7 |
+
+---
+
+## 9 · Riesgos
+
+| Lo que me preocupa | Plan B |
+|--------------------|--------|
+| | |
+
+---
+
+## Antes de entregar
+
+- [ ] La idea cabe en una frase.
+- [ ] El público es una persona concreta, no «todo el mundo».
+- [ ] Hay **3 o 4** funcionalidades imprescindibles, no diez.
+- [ ] Cada funcionalidad imprescindible tiene su pantalla.
+- [ ] Hay bocetos de las pantallas principales.
+- [ ] **Las cuatro casillas del apartado 8 están rellenas.**
+- [ ] Está identificado al menos un riesgo con su plan B.
