@@ -77,8 +77,9 @@ Permite a cualquier usuario tener un control absoluto sobre qué juegos tiene, e
 
 | Tipo de dato | Campos | Ejemplo |
 |--------------|--------|---------|
-| | | |
-| | | |
+| Videojuego | Título, desarrolladora, publisher, fecha de publicacón por región, plataforma, formato, OpenCritic | Ratchet & Clank, Insomniac Games, Sony Computer Entertainment, NA: 04-11-2002 / AU: 06-11-2002 / EU: 08-11-2002, PlayStation 2, físico, 88/100  |
+| Desarrolladora | Nombre, año de fundación, año de cierre, localización, propietario, principales sagas y títulos | Insomniac Games, 28-02-1994, en activo, Burbank, California, US, Sony Interactive Entertainment, Spyro The Dragon / Ratchet & Clank / Resistance / Sunset Overdrive / Spiderman |
+| Publisher | Nombre, año de fundación, año de cierre, localización, productos| Sony Interactive Entertainment, 16-11-1993, en activo, Tokio (Fundación) / San Mateo, California, US (Sede central), PlayStation / PlayStation VR / PlayStation Portable / PlayStation Vita|
 
 ---
 
