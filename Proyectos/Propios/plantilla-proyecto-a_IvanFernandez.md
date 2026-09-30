@@ -36,7 +36,7 @@
 > tecnología, cuándo y dónde abre la app, cuánto tiempo le dedica y qué pasa
 > si le falla.
 
->  El usuario medio serán un varón de unos 35 años, con mucha soltura con la tecnología que abrirá la app tras adquirir un juego en una tienda o cuando decida de vez en cuando actualizar su catálogo, dedicándole de unos minutos en situaciones cortas a algunas horas si hablamos de actualizar el backlog, y que si la app falla seguramente deje sin actualizar ese juego o decida buscarse alguna otra app.
+>  El usuario medio será un varón de unos 35 años, con mucha soltura con la tecnología que abrirá la app tras adquirir un juego en una tienda o cuando decida de vez en cuando actualizar su catálogo, dedicándole de unos minutos en situaciones cortas a algunas horas si hablamos de actualizar el backlog, y que si la app falla seguramente deje sin actualizar ese juego o decida buscarse alguna otra app.
 
 ---
 
@@ -49,6 +49,8 @@
 | F1 | Registrar títulos videojuegos por plataforma y formato |
 | F2 | Registrar y subir fotos de los títulos |
 | F3 | Crear listas y categorías: por plataforma, juegos buscados, etc. |
+| F4 | Postear comentarios en los perfiles de usuarios que sigues |
+| F5 | Seguir a otros usuarios |
 
 ### Opcionales (si sobra tiempo)
 
@@ -69,6 +71,7 @@
 | Añadir Ítem (Formulario) | Permite añadir un juego a la colección personal, ya sea buscando en la base de datos o añadiendo una nueva entrada a mano | Inicio, Menu, Burger, Floating Button |
 | Ajustes de usuario (Ajustes) | Permite modificar los datos personales de un usuario | Inicio, Menu, Burger, IconoPerfil |
 | Información de un título (Detalle) | Permite ver todos los datos en detalle de un juego que esté en una colección o en a base de datos | Colección, Inicio | 
+| Información de un perfil (Detalle) | Permite datos de un perfil que sea público como sus juegos añadidos o sus capturas subidas | Búsqueda, Inicio | 
 
 ---
 
@@ -95,7 +98,8 @@
 
 | Lo que me preocupa | Plan B |
 |--------------------|--------|
-| | |
+| Que no haya ninguna foto disponile para subir al perfil  | Tener dentro del tema de la app algunos fondos de perfil predefinidos |
+| No tener acceso  | |
 
 ---
 
