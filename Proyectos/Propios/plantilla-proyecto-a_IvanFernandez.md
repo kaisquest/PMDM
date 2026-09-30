@@ -92,6 +92,7 @@
 
 
 
+
 ---
 
 ## 8 · Riesgos
@@ -99,7 +100,8 @@
 | Lo que me preocupa | Plan B |
 |--------------------|--------|
 | Que no haya ninguna foto disponile para subir al perfil  | Tener dentro del tema de la app algunos fondos de perfil predefinidos |
-| No tener acceso  | |
+| No tener acceso a ninguna API de videojuegos | Utilizar un repositorio en memoria |
+|  |  |
 
 ---
 
